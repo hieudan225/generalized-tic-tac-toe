@@ -1,6 +1,6 @@
 # nutrition-labels
 
-Task 1: Have an application to annotate the boundaries of the nutrition labels (Dan task hehe)
+Task 1: Have an application to annotate the boundaries of the nutrition labels
 
 Task 2: Build and train the neural net to output 4 tuples of floating points
 
